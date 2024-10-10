@@ -6,10 +6,11 @@ I'm Auguste Baum! I'm a software engineer; talk to me about (in no particular or
 - Python, especially with Pydantic and Hypothesis; also Textual
 - Rust
 - RSS
-- Git Patch-Stack (currently trying out git-branchless)
+- Alternative Git workflows (as in, not GitHub)
+  - Happy user of git-branchless
 - free-and-open-source software.
 
-I have experience with machine learning pipelines and B2B applications.
+#### My professional experience
 
 - 🔭 I am currently working as a software engineer at [Probabl](probabl.ai).
 - I am co-founder and former CTO of [Resilio](https://github.com/resilio), a start-up promoting digital sobriety through ad-hoc consulting (life-cycle assessments) and solutions to empower consultants.
